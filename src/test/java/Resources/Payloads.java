@@ -33,6 +33,7 @@ public class Payloads {
 	public String getPlacePayload(String placeid)
 	{
 		System.out.println("Edit done by Timezone2 guy");
+		System.out.println("Edit done by timezone1 guy");
 	return placeid;
 	}
 	
