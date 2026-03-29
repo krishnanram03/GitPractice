@@ -39,8 +39,10 @@ public class Payloads {
 	
 	public String deletePlacePayload(String placeid)
 	{
-		
+		System.out.println("Testing");
 	return "{\"place_id\":\""+placeid+"\"}";
 	}
 
+	
+	
 }
