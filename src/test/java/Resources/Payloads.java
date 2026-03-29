@@ -25,14 +25,14 @@ public class Payloads {
 		l.setLat(90.425);
 		l.setLng(45.263);
 		r.setLocation(l);
-		
+		System.out.println("Edit done by Timezone2 guy");
 		return r;
 		
 	}
 	
 	public String getPlacePayload(String placeid)
 	{
-		
+		System.out.println("Edit done by Timezone2 guy");
 	return placeid;
 	}
 	
